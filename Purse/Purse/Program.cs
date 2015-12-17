@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BusinessCard;
+using Money;
 namespace Purse
 {
     class Program
@@ -12,7 +13,7 @@ namespace Purse
         {
 
             BusinessCardClass businesCard1 = new BusinessCardClass { Title = "businessCard1" };
-
+            Money.Money m = new Money.Money();
         }
     }
 }
