@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse\Purse.csproj", "{9ED67813-644C-41F6-831D-8449BFBC1FD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCard", "BusinessCard\BusinessCard.csproj", "{55DC9882-3447-495C-83C4-1E3580F2DC66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{9ED67813-644C-41F6-831D-8449BFBC1FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ED67813-644C-41F6-831D-8449BFBC1FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ED67813-644C-41F6-831D-8449BFBC1FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DC9882-3447-495C-83C4-1E3580F2DC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DC9882-3447-495C-83C4-1E3580F2DC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DC9882-3447-495C-83C4-1E3580F2DC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DC9882-3447-495C-83C4-1E3580F2DC66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
